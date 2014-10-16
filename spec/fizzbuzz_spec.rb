@@ -36,5 +36,19 @@ describe Fizzbuzz do
 		end
 	end
 
+	context "it should shout: " do
 
+		it "Fizz" do
+			expect(fizzbuzz.shout(3)).to eq("Fizz")
+		end
+
+		it "Buzz" do
+			expect(fizzbuzz.shout(5)).to eq("Buzz")
+		end
+
+		it "FizzBuzz" do
+			expect(fizzbuzz.shout(15)).to eq("FizzBuzz")
+		end
+	
+	end
 end

@@ -1,4 +1,15 @@
-Fizzbuzz
-========
+[![Code Climate](https://codeclimate.com/github/elenagarrone/fizzbuzz-rb/badges/gpa.svg)](https://codeclimate.com/github/elenagarrone/fizzbuzz-rb)
 
-This is FizzBuzz built using Ruby and Rspec.
+FizzBuzz in Ruby
+================
+
+This is FizzBuzz built using Ruby and tested with Rspec at the end of week 2 of Makers Academy.
+
+Specification:
+--------------
+Write a program that prints the numbers from 1 to 100. For multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+
+Technologies:
+------------
+- Ruby
+- Rspec

@@ -13,3 +13,18 @@ Technologies:
 ------------
 - Ruby
 - Rspec
+
+How to use:
+-----------
+Clone the repo:
+```shell
+$ git clone https://github.com/elenagarrone/fizzbuzz-rb.git
+```
+Change into the directory:
+```shell
+$ cd fizzbuzz-rb
+```
+Run the file:
+```shell
+$ ruby lib/fizzbuzz.rb
+```

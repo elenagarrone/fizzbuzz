@@ -25,15 +25,15 @@ describe Fizzbuzz do
   context "it should NOT be divisible by:" do
 
     it "three" do
-			expect(fizzbuzz.divisible_by_three(1)).to eq(false)
+      expect(fizzbuzz.divisible_by_three(1)).to eq(false)
     end
 
     it "five" do
-			expect(fizzbuzz.divisible_by_five(1)).to eq(false)
+      expect(fizzbuzz.divisible_by_five(1)).to eq(false)
     end
 
     it "fifteen" do
-			expect(fizzbuzz.divisible_by_fifteen(1)).to eq(false)
+      expect(fizzbuzz.divisible_by_fifteen(1)).to eq(false)
     end
 
   end
